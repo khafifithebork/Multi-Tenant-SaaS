@@ -1,10 +1,10 @@
 # Multi-Tenant SaaS Management Platform
 
-A production-grade, scalable backend built with Java 17, Spring Boot 3.2, PostgreSQL, Hibernate Filters for tenant isolation, and JWT-based stateless authentication.
+A production-grade, scalable backend built with Java 21, Spring Boot 3.2, PostgreSQL, Hibernate Filters for tenant isolation, and JWT-based stateless authentication.
 
 ## Tech Stack
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3.2**
 - **Spring Security** (JWT-based stateless auth)
 - **Spring Data JPA** + **Hibernate 6** (tenant isolation via Hibernate Filters)
@@ -15,7 +15,7 @@ A production-grade, scalable backend built with Java 17, Spring Boot 3.2, Postgr
 
 ## Prerequisites
 
-- Java 17+
+- Java 21+
 - Maven 3.9+
 - Docker & Docker Compose
 
